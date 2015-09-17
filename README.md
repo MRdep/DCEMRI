@@ -1,7 +1,7 @@
 # Joint-fitting
 IDL code for joint fitting to variable flip angle and dynamic-contrast enhanced magnetic resonance imaging (DCE-MRI) data
 # What the software does
-The folder 'Joint Fitting.zip' contains source files and synthetic data to replicate experiments described in 'Improved accuracy and precision of tracer kinetic parameters by joint fitting to variable flip angle and dynamic contrast enchanced data".
+The folder 'Joint Fitting' contains source files and synthetic data to replicate experiments described in 'Improved accuracy and precision of tracer kinetic parameters by joint fitting to variable flip angle and dynamic contrast enchanced data".
 
 #How to run the software
 1. clone the repository to your local machine, or simply download. Save to a suitable directory.
