@@ -1,0 +1,63 @@
+% Compiled module: RUN_2CXM_PHANTOM.
+% Compiled module: READ_ANALYZE.
+% Compiled module: IDLFFANALYZE__DEFINE.
+% Compiled module: RANDOMGAUSS.
+% Compiled module: DCEMRIPROCESSOR_FREES0_DEFINE.
+init complete
+Finished data readin
+% Compiled module: LINECOLORS.
+% LINECOLORS: 256 color table indices set for WIN device.
+% Compiled module: SAMPLE_FROM_ARRAY.
+------------------------
+% Compiled module: MPCURVEFIT.
+% Compiled module: MPFIT.
+% Compiled module: FLASH_FUNC.
+% Compiled module: TOFTS_OST_EXPC.
+% Compiled module: INTERPOL.
+% Compiled module: EXPCONVOLUTION.
+% Compiled module: TWOCXM_IFIT_DC.
+LS params   S0v         10163.5   T1        0.784172   Fp        0.401764
+   vp        0.160000   ve        0.329679   FE       0.0916042   S0d   
+      9950.87ost    0.0746818
+------------------------
+LS params   S0v         11025.1   T1        0.954619   Fp        0.366345
+   vp       0.0500001   ve        0.140439   FE       0.0903419   S0d   
+      12687.3ost     0.117938
+------------------------
+LS params   S0v         10430.7   T1        0.856579   Fp        0.473820
+   vp        0.130000   ve        0.860136   FE       0.0514047   S0d   
+      10623.5ost    0.0929632
+------------------------
+LS params   S0v         9569.78   T1        0.920049   Fp        0.555557
+   vp       0.0100001   ve        0.402301   FE        0.106294   S0d   
+      8393.02ost    0.0565013
+------------------------
+LS params   S0v         9765.57   T1        0.924756   Fp        0.420543
+   vp       0.0800001   ve        0.311119   FE        0.115405   S0d   
+      7759.48ost     0.111268
+------------------------
+LS params   S0v         13693.3   T1         1.44850   Fp        0.190022
+   vp       0.0300001   ve        0.236972   FE       0.0326398   S0d   
+      14725.4ost     0.132223
+------------------------
+LS params   S0v         11366.0   T1         1.16562   Fp        0.102646
+   vp       0.0100001   ve        0.204750   FE       0.0518423   S0d   
+      12907.1ost     0.166588
+------------------------
+LS params   S0v         9891.00   T1        0.750984   Fp        0.665451
+   vp        0.100000   ve        0.247190   FE        0.105224   S0d   
+      9519.46ost    0.0886912
+------------------------
+LS params   S0v         11564.8   T1        0.960096   Fp        0.487909
+   vp       0.0400001   ve        0.241381   FE        0.100283   S0d   
+      11686.3ost    0.0731898
+------------------------
+LS params   S0v         12096.7   T1         1.00453   Fp        0.263786
+   vp       0.0900001   ve        0.185964   FE       0.0983001   S0d   
+      14046.5ost     0.103259
+% Expression must be a structure in this context: OUTPUT_STRUCT.
+% Execution halted at: RUN_2CXM_PHANTOM  194 C:\Users\ben dickie\Desktop\JE
+   Software\run_2cxm_phantom.pro
+%                      $MAIN$          
+cleanup complete
+
